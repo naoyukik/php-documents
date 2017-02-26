@@ -1,0 +1,8 @@
+/**
+ * (PHP 5, PHP 7)<br/>
+ * @link http://php.net/manual/en/domcharacterdata.insertdata.php
+ * @param int $offset [optional] <p> TODO DESCRIPTION </p>
+ * @param string $data [optional] <p> TODO DESCRIPTION </p>
+ * @return void 値を返しません。
+ */
+function DOMCharacterData.insertData($offset, $data) {}

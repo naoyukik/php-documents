@@ -1,0 +1,6 @@
+/**
+ * (PHP 5 <= 5.3.0, PECL ming SVN)<br/>
+ * @link http://php.net/manual/en/swfdisplayitem.gety.php
+ * @return float 
+ */
+function SWFDisplayItem.getY() {}

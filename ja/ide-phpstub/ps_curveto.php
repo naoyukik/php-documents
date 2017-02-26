@@ -1,0 +1,13 @@
+/**
+ * (PECL ps >= 1.1.0)<br/>
+ * @link http://php.net/manual/en/function.ps-curveto.php
+ * @param resource $psdoc [optional] <p> TODO DESCRIPTION </p>
+ * @param float $x1 [optional] <p> TODO DESCRIPTION </p>
+ * @param float $y1 [optional] <p> TODO DESCRIPTION </p>
+ * @param float $x2 [optional] <p> TODO DESCRIPTION </p>
+ * @param float $y2 [optional] <p> TODO DESCRIPTION </p>
+ * @param float $x3 [optional] <p> TODO DESCRIPTION </p>
+ * @param float $y3 [optional] <p> TODO DESCRIPTION </p>
+ * @return bool 成功した場合に TRUE を、失敗した場合に FALSE を返します。TRUEFALSE
+ */
+function ps_curveto($psdoc, $x1, $y1, $x2, $y2, $x3, $y3) {}

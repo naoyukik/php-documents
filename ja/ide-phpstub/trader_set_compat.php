@@ -1,0 +1,7 @@
+/**
+ * (PECL trader >= 0.2.2)<br/>
+ * @link http://php.net/manual/en/function.trader-set-compat.php
+ * @param integer $compatId [optional] <p> TODO DESCRIPTION </p>
+ * @return void 値を返しません。
+ */
+function trader_set_compat($compatId) {}

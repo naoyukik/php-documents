@@ -1,0 +1,7 @@
+/**
+ * (PHP 4, PHP 5 < 5.2.0, PECL hwapi SVN)<br/>
+ * @link http://php.net/manual/en/hwapi.object-remove.php
+ * @param string $name [optional] <p> TODO DESCRIPTION </p>
+ * @return bool 成功した場合に TRUE を、失敗した場合に FALSE を返します。TRUEFALSE
+ */
+function hw_api_object.remove($name) {}
